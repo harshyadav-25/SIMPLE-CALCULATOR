@@ -22,13 +22,11 @@ It is beginner-friendly and ideal for learning the basics of C++.
 
 ```
 Simple-Calculator/
-│
-├── src/
-│   └── main.cpp
-│
-├── README.md
-│
-└── LICENSE
+ ├── src/
+ │    └── main.cpp
+ ├── README.md
+ └── LICENSE
+
 ```
 
 ---
